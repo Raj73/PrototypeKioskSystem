@@ -1,0 +1,24 @@
+C:\Users\Rajan\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\PrototypeKioskSystem.csprojResolveAssemblyReference.cache
+C:\Users\Rajan\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\PrototypeKioskSystem.exe.config
+C:\Users\Rajan\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\PrototypeKioskSystem.exe
+C:\Users\Rajan\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\PrototypeKioskSystem.pdb
+C:\Users\Rajan\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\PrototypeKioskSystem.exe
+C:\Users\Rajan\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\PrototypeKioskSystem.pdb
+C:\Users\Rajan\Documents\Visual Studio 2015\Projects\PrototypeKioskSystem\PrototypeKioskSystem\bin\Debug\PrototypeKioskSystem.exe.config
+C:\Users\Rajan\Documents\Visual Studio 2015\Projects\PrototypeKioskSystem\PrototypeKioskSystem\bin\Debug\PrototypeKioskSystem.exe
+C:\Users\Rajan\Documents\Visual Studio 2015\Projects\PrototypeKioskSystem\PrototypeKioskSystem\bin\Debug\PrototypeKioskSystem.pdb
+C:\Users\Rajan\Documents\Visual Studio 2015\Projects\PrototypeKioskSystem\PrototypeKioskSystem\obj\Debug\PrototypeKioskSystem.csprojResolveAssemblyReference.cache
+C:\Users\Rajan\Documents\Visual Studio 2015\Projects\PrototypeKioskSystem\PrototypeKioskSystem\obj\Debug\PrototypeKioskSystem.exe
+C:\Users\Rajan\Documents\Visual Studio 2015\Projects\PrototypeKioskSystem\PrototypeKioskSystem\obj\Debug\PrototypeKioskSystem.pdb
+C:\Users\Rajan\Documents\Visual Studio 2015\Projects\PrototypeKioskSystem\ConsoleApplication1\bin\Debug\PrototypeKioskSystem.exe.config
+C:\Users\Rajan\Documents\Visual Studio 2015\Projects\PrototypeKioskSystem\ConsoleApplication1\obj\Debug\PrototypeKioskSystem.exe
+C:\Users\Rajan\Documents\Visual Studio 2015\Projects\PrototypeKioskSystem\ConsoleApplication1\obj\Debug\PrototypeKioskSystem.pdb
+C:\Users\Rajan\Documents\Visual Studio 2015\Projects\PrototypeKioskSystem\ConsoleApplication1\bin\Debug\PrototypeKioskSystem.exe
+C:\Users\Rajan\Documents\Visual Studio 2015\Projects\PrototypeKioskSystem\ConsoleApplication1\bin\Debug\PrototypeKioskSystem.pdb
+C:\Users\Rajan\Documents\Visual Studio 2015\Projects\PrototypeKioskSystem\ConsoleApplication1\obj\Debug\PrototypeKioskSystem.csprojResolveAssemblyReference.cache
+C:\Users\Rajan\Documents\GitHub\PrototypeKioskSystem\ConsoleApplication1\bin\Debug\PrototypeKioskSystem.exe.config
+C:\Users\Rajan\Documents\GitHub\PrototypeKioskSystem\ConsoleApplication1\obj\Debug\PrototypeKioskSystem.exe
+C:\Users\Rajan\Documents\GitHub\PrototypeKioskSystem\ConsoleApplication1\obj\Debug\PrototypeKioskSystem.pdb
+C:\Users\Rajan\Documents\GitHub\PrototypeKioskSystem\ConsoleApplication1\bin\Debug\PrototypeKioskSystem.exe
+C:\Users\Rajan\Documents\GitHub\PrototypeKioskSystem\ConsoleApplication1\bin\Debug\PrototypeKioskSystem.pdb
+C:\Users\Rajan\Documents\GitHub\PrototypeKioskSystem\ConsoleApplication1\obj\Debug\PrototypeKioskSystem.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+Apple,0.75
+Apple,0.85
+Orange,0.50
+Banana,1.00
+Tomato,0.80
+Bread,3.49
+Cheese,1.99

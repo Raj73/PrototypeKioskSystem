@@ -1,0 +1,3 @@
+Sale,Apple,0.50
+Group,Apple,0.75,2
+Additional,Banana,50.0,1
